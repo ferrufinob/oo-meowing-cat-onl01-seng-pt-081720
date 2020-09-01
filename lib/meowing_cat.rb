@@ -4,4 +4,3 @@ def Cat
   
 end
 
-Cat.new = "maru"
