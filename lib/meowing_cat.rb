@@ -1,7 +1,6 @@
 ## code your solution here. 
-def Cat
+def CAT
   attr_accessor :name
-  
   
 end
 
